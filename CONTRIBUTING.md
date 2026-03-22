@@ -1,6 +1,10 @@
 
 # Contributor Covenant 3.0 Code of Conduct
 
+# Contributing
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 ## Our Pledge
 
 We pledge to make our community welcoming, safe, and equitable for all.
